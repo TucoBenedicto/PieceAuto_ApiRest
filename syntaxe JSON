@@ -1,0 +1,25 @@
+//https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript/7911021-exploitez-des-donnees-au-format-json
+Les textes:
+
+Les textes sont constitués d’une série de caractères. 
+Dit simplement, un caractère correspond à une touche sur votre clavier. 
+Pour savoir où un texte commence et où il finit, vous devez le délimiter à l’aide de guillemets "".
+
+Par exemple :
+"Un texte en JSON"
+"Le double guillemet \" délimite un texte"
+
+Si votre texte contient lui-même un guillemet  "  , vous devez le faire précéder du symbole backslash  \  . 
+Cela indiquera qu’il ne s’agit pas de la fin de la chaîne de caractères, mais bien d’un caractère à part entière.
+
+Par exemple :
+
+Sans backslash :
+Capture d'écran d'un texte qui contient des guillemets sans backlash
+
+Avec backslash :
+Capture d'écran d'un texte qui contient des guillemets avec backlash
+
+JavaScript permet de délimiter les chaînes de caractères de deux autres manières : 
+avec le guillemet simple  '  et le back tick  `  . JSON n’a conservé que le double guillemet. 
+Attention à n’utiliser que ce dernier lorsque vous écrivez en JSON.
