@@ -1,6 +1,6 @@
 # V2
 
-j'ai integré le serveur (api-http) à l'interieur du site web pour faciliter le "push"
+j'ai integré le serveur (api-http) à l'interieur du site web pour faciliter le "push" , parcontre je n'ai pas verifier si sa fonctionné
 
 # GITHUB
 
